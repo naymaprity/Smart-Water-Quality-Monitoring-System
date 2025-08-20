@@ -24,15 +24,6 @@ If the water quality is poor, a buzzer is triggered as an alert system.
 
 ---
 
-## ⚡ Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)
-
----
-
-## 📷 Final Project Setup
-![Final Setup](images/final_setup.jpg)
-
----
 
 ## 🚀 How to Run
 1. Open `Smart_Water_Quality_Monitoring.ino` in **Arduino IDE**.  
